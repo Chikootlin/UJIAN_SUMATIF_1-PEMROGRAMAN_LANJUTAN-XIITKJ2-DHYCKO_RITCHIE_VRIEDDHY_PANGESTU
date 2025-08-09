@@ -14,7 +14,7 @@ class StudentController extends Controller
                 'nama' => 'Andi Pratama',
                 'kelas' => '12 TKJ 1',
                 'hobi' => 'Futsal',
-                'foto' => 'https://placehold.co/400/png',
+                'foto' => 'https://i.ibb.co.com/ymR6vTzt/FREE-HDconvert-com-icon-017-01.png',
                 'deskripsi' => 'Saya senang berolahraga dan bercita-cita menjadi atlet profesional.'
             ],
             [
@@ -23,7 +23,7 @@ class StudentController extends Controller
                 'nama' => 'Bella Arumsari',
                 'kelas' => '12 TKJ 1',
                 'hobi' => 'Ngoding',
-                'foto' => 'https://placehold.co/400/png',
+                'foto' => 'https://i.ibb.co.com/sv7cFMRn/stiker2.png',
                 'deskripsi' => 'Saya suka mempelajari bahasa pemrograman dan ingin menjadi software engineer.'
             ],
             [
@@ -32,7 +32,7 @@ class StudentController extends Controller
                 'nama' => 'Cika Ramadhani',
                 'kelas' => '12 TKJ 1',
                 'hobi' => 'Menari',
-                'foto' => 'https://placehold.co/400/png',
+                'foto' => 'https://i.ibb.co.com/Nngc3ztk/Open-War.jpg',
                 'deskripsi' => 'Menari adalah cara saya mengekspresikan diri dan semangat.'
             ],
             [
@@ -41,7 +41,7 @@ class StudentController extends Controller
                 'nama' => 'Dani Saputra',
                 'kelas' => '12 TKJ 1',
                 'hobi' => 'Desain Grafis',
-                'foto' => 'https://placehold.co/400/png',
+                'foto' => 'https://i.ibb.co.com/4ZvCt2dS/nerd-bigstock-Extreme-Computer-Nerd-1520708.jpg',
                 'deskripsi' => 'Saya senang membuat desain yang estetik dan fungsional.'
             ]
         ];
@@ -57,7 +57,7 @@ class StudentController extends Controller
                 'nama' => 'Andi Pratama',
                 'kelas' => '12 TKJ 1',
                 'hobi' => 'Futsal',
-                'foto' => 'https://placehold.co/400/png',
+                'foto' => 'https://i.ibb.co.com/ymR6vTzt/FREE-HDconvert-com-icon-017-01.png',
                 'deskripsi' => 'Saya senang berolahraga dan bercita-cita menjadi atlet profesional.'
             ],
             [
@@ -66,7 +66,7 @@ class StudentController extends Controller
                 'nama' => 'Bella Arumsari',
                 'kelas' => '12 TKJ 1',
                 'hobi' => 'Ngoding',
-                'foto' => 'https://placehold.co/400/png',
+                'foto' => 'https://i.ibb.co.com/sv7cFMRn/stiker2.png',
                 'deskripsi' => 'Saya suka mempelajari bahasa pemrograman dan ingin menjadi software engineer.'
             ],
             [
@@ -75,7 +75,7 @@ class StudentController extends Controller
                 'nama' => 'Cika Ramadhani',
                 'kelas' => '12 TKJ 1',
                 'hobi' => 'Menari',
-                'foto' => 'https://placehold.co/400/png',
+                'foto' => 'https://i.ibb.co.com/Nngc3ztk/Open-War.jpg',
                 'deskripsi' => 'Menari adalah cara saya mengekspresikan diri dan semangat.'
             ],
             [
@@ -84,7 +84,7 @@ class StudentController extends Controller
                 'nama' => 'Dani Saputra',
                 'kelas' => '12 TKJ 1',
                 'hobi' => 'Desain Grafis',
-                'foto' => 'https://placehold.co/400/png',
+                'foto' => 'https://i.ibb.co.com/4ZvCt2dS/nerd-bigstock-Extreme-Computer-Nerd-1520708.jpg',
                 'deskripsi' => 'Saya senang membuat desain yang estetik dan fungsional.'
             ]
         ];

@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+<h1 class="text-center text-2xl font-bold mb-4">Daftar Siswa</h1>
 <div class="flex justify-center">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
         @foreach ($students as $data)
